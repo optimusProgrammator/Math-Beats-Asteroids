@@ -95,7 +95,7 @@ The scoring system rewards both speed and accuracy.
 
 ---
 
-# 📂 Project Structure
+# 📂 Intended Project Structure
 
 ```
 Math-Beats-Asteroids/
